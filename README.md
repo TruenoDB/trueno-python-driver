@@ -1,2 +1,2 @@
-# thruster-python-driver
-Python driver for the TruenoDB graph database.
+# Trueno-Python-Driver
+Python driver for the TruenoDB Graph Database.
